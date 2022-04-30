@@ -17,20 +17,4 @@ We're always looking for experienced, talented developers to join our engineerin
 - A SEO rank tracking SaaS that keeps track of how well customer sites are doing on major search engines (Laravel / WordPress)
 - An ERP system that tracks orders, sales data, events and promotions (Laravel)
 
-### We treat our employees like humans
-
-- 100% remote
-- Flexible schedule
-- Competitive salary based on experience
-- Unlimited time off + public holidays
-- Flexible Fridays (every other Friday off!)
-- Medical, Dental and Vision insurance
-- Top of the line laptop and software
-- Home office set up
-- 401k Program with company match
-- Professional Development Opportunities
-- Books, conferences and training budget
-- Great work life balance
-- Maternity / paternity leave
-
 Sounds like something you'd like to be a part of? Why not [get in touch](https://zeek.com/careers)?

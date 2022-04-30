@@ -33,4 +33,4 @@ We're always looking for experienced, talented developers to join our engineerin
 - Great work life balance
 - Maternity / paternity leave
 
-Sounds like something you'd like to be a part of? Why not (get in touch)[https://zeek.com/careers]?
+Sounds like something you'd like to be a part of? Why not [get in touch](https://zeek.com/careers)?

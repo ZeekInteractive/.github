@@ -1,4 +1,4 @@
-<p align="center"><a href="https://zeek.com" target="_blank"><img src="https://user-images.githubusercontent.com/4950846/166331736-173eb02a-3220-427b-a03e-fee42610427b.png" width="257"></a></p>
+<p align="center"><a href="https://zeek.com" target="_blank"><img src="https://github.com/zeekinteractive/.github/blob/main/docs/images/zeek-logo.png?raw=true" width="257"></a></p>
 
 ## About Zeek
 
